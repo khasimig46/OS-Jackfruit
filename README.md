@@ -110,7 +110,22 @@ dmesg | grep container_monitor | tail -5
 ---
 
 ## 3. Demo Screenshots
-Added demo screenshots to folder ./Screenshots
+Screenshot 1:
+<img width="816" height="190" alt="os-jackfruit1" src="https://github.com/user-attachments/assets/8401eb5c-233f-4204-9717-9842ca89e974" />
+Screenshot 2:<img width="738" height="216" alt="Os-jackfruit 24" src="https://github.com/user-attachments/assets/2ba1ba6d-1757-4e33-9bb1-01f4a1b3287a" />
+Screenshot 3:<img width="816" height="229" alt="os-jackfruit2" src="https://github.com/user-attachments/assets/0af8ef0f-7657-47de-9bda-02ed89c7d873" />
+Screenshot 4:<img width="798" height="265" alt="WhatsApp Image 2026-04-22 at 13 33 37" src="https://github.com/user-attachments/assets/64c734fc-a775-4be9-ad1a-2f1faf4d754e" />
+<img width="738" height="216" alt="Os-jackfruit3 24" src="https://github.com/user-attachments/assets/a01c6eda-d05f-41ca-9a7a-288154a7baf9" />
+Screenshot 5:<img width="798" height="265" alt="WhatsApp Image 2026-04-22 at 13 33 37" src="https://github.com/user-attachments/assets/69375ee7-0027-4bb1-80cc-76ceef5f9185" />
+Screenshot 6:<img width="798" height="265" alt="WhatsApp Image 2026-04-22 at 13 53 35" src="https://github.com/user-attachments/assets/c13df11d-d716-4231-8541-e34662ec6d19" />
+Screenshot 7:<img width="1214" height="687" alt="WhatsApp Image 2026-04-22 at 14 00 54" src="https://github.com/user-attachments/assets/0e524524-cedb-4a50-8010-79dc7dac10fa" />
+
+
+
+
+
+
+
 
 ---
 
